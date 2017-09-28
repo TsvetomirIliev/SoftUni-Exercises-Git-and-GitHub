@@ -5,7 +5,8 @@ these are other changes in conflict
 
 Making some changes in the file
 
-
 The conflict is resolved
 
 Edited again in master branch
+
+latest conflict resolved
