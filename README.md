@@ -7,3 +7,6 @@ Making some changes in the file
 
 
 The conflict is resolved
+
+
+Hello again!
